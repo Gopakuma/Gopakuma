@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Gopakumar
 
-<!--
-**Gopakuma/Gopakuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer** | MBA in IT & BSc Computer Science | Open to Work  
+💻 **Tech Stack**: JavaScript · Node.js · Express · Docker · Next Js · MSSQL · MongoDB  
+🎯 **Passionate about**: Building scalable backend systems.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- [Project 1](https://tinyurl.com/yc5dj7db): My Portfolio developed using Next Js and Css
+- [Project 2](https://tinyurl.com/mpsm5ak3): A Demo of Ecommerce service.
+
+### 📫 Let's Connect
+- LinkedIn: [Gopakumar](linkedin.com/in/gopakumar-g-838b1b216)
+- Email: gopakumarg893@gmail.com
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopakuma&show_icons=true&theme=radical)](https://github.com/Gopakuma)
