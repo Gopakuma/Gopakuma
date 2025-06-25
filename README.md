@@ -12,7 +12,7 @@
 
 ### 🚀 Featured Projects
 - [Project 1](https://tinyurl.com/yc5dj7db): My Portfolio developed using Next Js and Css
-- [Project 2](https://tinyurl.com/mpsm5ak3): A Demo of Ecommerce service.
+- [Project 2](https://tinyurl.com/mtadr8c8): A Website for Man United Fans.
 
 ### 📫 Let's Connect
 - LinkedIn: [Gopakumar](linkedin.com/in/gopakumar-g-838b1b216)
